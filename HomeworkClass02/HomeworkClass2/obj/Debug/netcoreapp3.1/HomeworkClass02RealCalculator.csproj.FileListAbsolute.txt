@@ -1,0 +1,11 @@
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\bin\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.exe
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\bin\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.deps.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\bin\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.runtimeconfig.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\bin\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.runtimeconfig.dev.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\bin\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\bin\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.pdb
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\obj\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.csprojAssemblyReference.cache
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\obj\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\obj\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.AssemblyInfo.cs
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\obj\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass2\obj\Debug\netcoreapp3.1\HomeworkClass02RealCalculator.pdb

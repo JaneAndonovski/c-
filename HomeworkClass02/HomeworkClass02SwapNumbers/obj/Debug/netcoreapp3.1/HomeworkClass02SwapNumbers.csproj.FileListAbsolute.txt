@@ -1,0 +1,11 @@
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\bin\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.exe
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\bin\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.deps.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\bin\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.runtimeconfig.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\bin\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.runtimeconfig.dev.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\bin\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\bin\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.pdb
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\obj\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.csprojAssemblyReference.cache
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\obj\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\obj\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.AssemblyInfo.cs
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\obj\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02SwapNumbers\obj\Debug\netcoreapp3.1\HomeworkClass02SwapNumbers.pdb

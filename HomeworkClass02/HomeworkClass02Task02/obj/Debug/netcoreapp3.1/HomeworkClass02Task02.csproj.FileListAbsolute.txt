@@ -1,0 +1,10 @@
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02Task02.exe
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02Task02.deps.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02Task02.runtimeconfig.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02Task02.runtimeconfig.dev.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02Task02.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02Task02.pdb
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\obj\Debug\netcoreapp3.1\HomeworkClass02Task02.AssemblyInfoInputs.cache
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\obj\Debug\netcoreapp3.1\HomeworkClass02Task02.AssemblyInfo.cs
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\obj\Debug\netcoreapp3.1\HomeworkClass02Task02.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\obj\Debug\netcoreapp3.1\HomeworkClass02Task02.pdb

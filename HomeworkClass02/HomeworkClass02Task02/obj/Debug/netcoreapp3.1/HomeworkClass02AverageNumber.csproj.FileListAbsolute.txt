@@ -1,0 +1,11 @@
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.exe
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.deps.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.runtimeconfig.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.runtimeconfig.dev.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\bin\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.pdb
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\obj\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.AssemblyInfoInputs.cache
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\obj\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.AssemblyInfo.cs
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\obj\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\obj\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.pdb
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkClass02Task02\obj\Debug\netcoreapp3.1\HomeworkClass02AverageNumber.csprojAssemblyReference.cache

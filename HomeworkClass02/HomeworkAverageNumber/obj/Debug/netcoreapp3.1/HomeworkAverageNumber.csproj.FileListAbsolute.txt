@@ -1,0 +1,11 @@
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\bin\Debug\netcoreapp3.1\HomeworkAverageNumber.exe
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\bin\Debug\netcoreapp3.1\HomeworkAverageNumber.deps.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\bin\Debug\netcoreapp3.1\HomeworkAverageNumber.runtimeconfig.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\bin\Debug\netcoreapp3.1\HomeworkAverageNumber.runtimeconfig.dev.json
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\bin\Debug\netcoreapp3.1\HomeworkAverageNumber.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\bin\Debug\netcoreapp3.1\HomeworkAverageNumber.pdb
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\obj\Debug\netcoreapp3.1\HomeworkAverageNumber.csprojAssemblyReference.cache
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\obj\Debug\netcoreapp3.1\HomeworkAverageNumber.AssemblyInfoInputs.cache
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\obj\Debug\netcoreapp3.1\HomeworkAverageNumber.AssemblyInfo.cs
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\obj\Debug\netcoreapp3.1\HomeworkAverageNumber.dll
+C:\Users\Nirvana\Desktop\homework\HomeworkClass02\HomeworkAverageNumber\obj\Debug\netcoreapp3.1\HomeworkAverageNumber.pdb
