@@ -14,7 +14,8 @@ namespace HomeworkAverageNumber
 
             Console.WriteLine("Enter the second number: ");
             num2 = Convert.ToInt32(Console.ReadLine());
-
+            
+            
 
             Console.WriteLine("Enter the third number: ");
             num3 = Convert.ToInt32(Console.ReadLine());
